@@ -1,0 +1,10 @@
+<% provide :title, t(".name") %>
+<h1><%= t ".title" %></h1>
+<%= link_to t(".en"), locale: :en %>
+<%= link_to t(".vi"), locale: :vi %>
+<p>
+  <%= t ".content" %>
+  <%= link_to t(".link"), "http://www.railstutorial.org/help" %>
+  <%= t ".content_two" %>
+  <%= link_to t(".link_two"), "http://www.railstutorial.org/book" %>
+</p>
