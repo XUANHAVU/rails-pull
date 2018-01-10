@@ -1,0 +1,43 @@
+vi:
+  static_pages:
+    application:
+      title: "| Ruby on Rails Tutorial Sample App"
+    home:
+      en: "English"
+      vi: "Vietnamese"
+      name: "Trang chu"
+      title: "Ung dung mau"
+      content: "Day la trang chu"
+      link: "Ruby on Rails huong dan"
+      content_two: "ung dung mau."
+    help:
+      en: "English"
+      vi: "Vietnamese"
+      name: "Ho tro"
+      title: "Ho tro"
+      content: "ho tro Ruby on Rails huong dan tai"
+      content_two: "ho tro cho ung dung mau, hay nhin"
+      link: "Rails huong dan ho tro"
+      link_two: "Ruby on Rails huong dan sach."
+    about:
+      en: "English"
+      vi: "Vietnamese"
+      name: "Thong tin"
+      title: "Thong tin"
+      content: "day"
+      content_two: "la mot"
+      content_three: "va"
+      content_four: "day phat trien web voi"
+      content_five: "day la ung dung mau cho huong dan"
+      link: "Ruby on Rails huong dan"
+      link_two: "sach"
+      link_three: "screencast series"
+      link_four: "Ruby on Rails"
+    contact:
+      en: "English"
+      vi: "Vietnamese"
+      name: "Lien he"
+      title: "Lien he"
+      content: "lien he Ruby on Rails huong dan ve ung dung mau tai"
+      content_two: "huong dan ve ung dung mau tai"
+      link: "lien he Ruby on Rails"
