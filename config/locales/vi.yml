@@ -1,7 +1,7 @@
 vi:
   static_pages:
     application:
-      title: "| Ruby on Rails Tutorial Sample App"
+      title: "Ruby on Rails Tutorial Sample App"
     home:
       en: "English"
       vi: "Vietnamese"
