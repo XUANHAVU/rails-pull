@@ -1,8 +1,29 @@
 vi:
+  users:
+    new:
+      signup: "dang ky"
+      usernew: "Users#new"
+      content: "Tim toi trong app/views/users/new.html.erb"
+  layouts:
+    header:
+      name: "ung dung mau"
+      home: "trang chu"
+      help: "tro giup"
+      login: "dang nhap"
+    footer:
+      content: "day"
+      content2: "boi"
+      link: "Ruby on Rails huogn dan"
+      link2: "Michael Hartl"
+      about: "thong tin"
+      contact: "lien he"
+      news: "Moi"
   static_pages:
     application:
       title: "Ruby on Rails Tutorial Sample App"
     home:
+      signup: "Dang ky ngay!"
+      logo: "Rails logo"
       en: "English"
       vi: "Vietnamese"
       name: "Trang chu"
