@@ -30,10 +30,31 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  users:
+    new:
+      signup: "Sign up"
+      usernew: "Users#new"
+      content: "Find me in app/views/users/new.html.erb"
+  layouts:
+    header:
+      name: "sample app"
+      home: "Home"
+      help: "Help"
+      login: "Log in"
+    footer:
+      content: "The"
+      content2: "by"
+      link: "Ruby on Rails Tutorial"
+      link2: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      news: "News"
   static_pages:
     application:
       title: "Ruby on Rails Tutorial Sample App"
     home:
+      signup: "Sign up now!"
+      logo: "Rails logo"
       en: "English"
       vi: "Vietnamese"
       name: "Home"
